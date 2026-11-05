@@ -1,9 +1,9 @@
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vu%20Dinh%20Quang&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Sáng%20tạo%20để%20tạo%20khác%20biệt&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vu%20Dinh%20Quang&fontSize=56&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
 
 <p align="center">
   <a href="https://github.com/Quangvuisme">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o!+I'm+Vu+Dinh+Quang+%F0%9F%91%8B;A+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Creativity+makes+the+difference+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o!+I'm+Vu+Dinh+Quang+%F0%9F%91%8B;A+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,6 @@
 const quang = {
   name:      "Vu Dinh Quang",
   location:  "Vietnam 🇻🇳",
-  motto:     "Sáng tạo để tạo khác biệt",
   learning:  ["new technologies", "clean code", "problem solving"],
   funFact:   "I turn coffee ☕ into code 💻",
 };
