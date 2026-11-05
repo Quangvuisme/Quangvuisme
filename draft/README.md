@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Quangvuisme">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o!+I'm+Vu+Dinh+Quang+%F0%9F%91%8B;A+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o!+I'm+Vu+Dinh+Quang+%F0%9F%91%8B;Robotics+Engineer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Building+robots+that+sense%2C+think+%26+move+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,15 +21,16 @@
 const quang = {
   name:      "Vu Dinh Quang",
   location:  "Vietnam 🇻🇳",
-  learning:  ["new technologies", "clean code", "problem solving"],
-  funFact:   "I turn coffee ☕ into code 💻",
+  field:     "Robotics 🤖",
+  interests: ["control systems", "embedded systems", "robot perception"],
+  funFact:   "I turn coffee ☕ into moving robots 🦾",
 };
 ```
 
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git,github,vscode,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,ros,matlab,arduino,raspberrypi,opencv,ubuntu,git&perline=10" />
 </p>
 
 ### 📊 GitHub at a glance
