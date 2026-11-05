@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="180" viewBox="0 0 160 180">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4fd1c5"/><stop offset="1" stop-color="#2c8c99"/></linearGradient></defs>
+  <rect width="160" height="180" rx="16" fill="#1a1b27"/>
+  <!-- lidar -->
+  <path d="M58 52 A30 30 0 0 1 102 52" fill="none" stroke="#36BCF7" stroke-width="2" opacity=".5"/>
+  <path d="M50 44 A42 42 0 0 1 110 44" fill="none" stroke="#36BCF7" stroke-width="2" opacity=".3"/>
+  <rect x="70" y="58" width="20" height="12" rx="4" fill="#0f2027" stroke="#9fb3c8" stroke-width="2"/>
+  <circle cx="80" cy="64" r="3" fill="#36BCF7"/>
+  <!-- mast -->
+  <rect x="76" y="70" width="8" height="14" fill="#6b7f95"/>
+  <!-- body -->
+  <rect x="32" y="84" width="96" height="38" rx="10" fill="url(#g)"/>
+  <rect x="42" y="94" width="30" height="8" rx="4" fill="#0f2027" opacity=".6"/>
+  <circle cx="114" cy="103" r="5" fill="#ffd166"/>
+  <!-- wheels -->
+  <circle cx="52" cy="128" r="14" fill="#0f2027" stroke="#6b7f95" stroke-width="4"/><circle cx="52" cy="128" r="4" fill="#9fb3c8"/>
+  <circle cx="108" cy="128" r="14" fill="#0f2027" stroke="#6b7f95" stroke-width="4"/><circle cx="108" cy="128" r="4" fill="#9fb3c8"/>
+  <line x1="24" y1="145" x2="136" y2="145" stroke="#30363d" stroke-width="2"/>
+  <text x="80" y="172" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#36BCF7" letter-spacing="1">MOBILE ROBOT</text>
+</svg>

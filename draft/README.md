@@ -36,9 +36,9 @@ const quang = {
 ### 🤖 Robots I work with
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Humanoid-1a1b27?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%A6%BE_Robot_Arm-1a1b27?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%9A%97_Mobile_Robot-1a1b27?style=for-the-badge" />
+  <img width="140" src="https://raw.githubusercontent.com/Quangvuisme/Quangvuisme/main/assets/humanoid.svg" alt="Humanoid" />
+  <img width="140" src="https://raw.githubusercontent.com/Quangvuisme/Quangvuisme/main/assets/robot-arm.svg" alt="Robot Arm" />
+  <img width="140" src="https://raw.githubusercontent.com/Quangvuisme/Quangvuisme/main/assets/mobile-robot.svg" alt="Mobile Robot" />
 </p>
 
 ### 📊 GitHub
