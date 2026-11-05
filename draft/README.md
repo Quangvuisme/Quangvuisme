@@ -30,28 +30,21 @@ const quang = {
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,ros,matlab,arduino,raspberrypi,opencv,ubuntu,git&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,ros,matlab,ubuntu" />
 </p>
 
-### 📊 GitHub at a glance
+### 🤖 Robots I work with
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Quangvuisme&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quangvuisme&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Humanoid-1a1b27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%A6%BE_Robot_Arm-1a1b27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%97_Mobile_Robot-1a1b27?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Quangvuisme&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 GitHub
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Quangvuisme&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Quangvuisme&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Quangvuisme&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&hide_rank=true&theme=tokyonight&hide_border=true&card_width=320" />
 </p>
 
 <!-- Footer banner -->
