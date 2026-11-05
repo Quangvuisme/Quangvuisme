@@ -44,7 +44,8 @@ const quang = {
 ### 📊 GitHub
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Quangvuisme&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&hide_rank=true&theme=tokyonight&hide_border=true&card_width=320" />
+  <img src="https://img.shields.io/github/followers/Quangvuisme?style=for-the-badge&logo=github&label=Followers&color=36BCF7&labelColor=1a1b27" />
+  <img src="https://img.shields.io/github/stars/Quangvuisme?style=for-the-badge&logo=github&label=Stars&color=36BCF7&labelColor=1a1b27" />
 </p>
 
 <!-- Footer banner -->
